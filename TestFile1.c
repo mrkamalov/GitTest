@@ -1,6 +1,8 @@
 //Common field 
 abc=nwczion;
 //Bakhtiyar field
+London is the capital of Great Britain
+
 
 //Marat field
 abrakadabra
